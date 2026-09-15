@@ -4,6 +4,16 @@
 
 I build practical, data-driven web tools that turn complex information into clear, useful decisions. My public work is available as live products; source code remains private by design.
 
+## Live tools
+
+Explore the full collection: **[zeeshan.cisaan.workers.dev →](https://zeeshan.cisaan.workers.dev/)**
+
+| Tool | What it does | Launch |
+| --- | --- | --- |
+| **CVE Vulnerability Dashboard** | Security intelligence for CVEs, CVSS severity, EPSS exploit likelihood, vendors, patch timelines, and threat context. | [Open tool →](https://zeeshan.cisaan.workers.dev/cve-dashboard) |
+| **UK Salary Checker** | Salary intelligence using ONS data, regional filtering, take-home pay logic, and trend visualisation. | [Open tool →](https://zeeshan.cisaan.workers.dev/salary-checker) |
+| **UK Visa Sponsor Finder** | Searchable UK Home Office sponsor-register data with route, region, and town filters. | [Open tool →](https://zeeshan.cisaan.workers.dev/visa-sponsor) |
+
 ## Featured tool
 
 ### CVE Threat Intelligence Dashboard
@@ -14,7 +24,7 @@ A live security dashboard for monitoring vulnerabilities, analysing severity, an
 - Product scanning, remediation tracking, and CSV/JSON export
 - Responsive interface built for clear, fast security triage
 
-**[Launch the live dashboard →](https://shanik3.github.io/cve-dashboard)**
+**[Launch the dashboard →](https://zeeshan.cisaan.workers.dev/cve-dashboard)**
 
 ## What I build
 
